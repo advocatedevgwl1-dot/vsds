@@ -1,0 +1,28 @@
+
+{
+  "name": "vidhigya-sanghthan",
+  "version": "1.0.0",
+  "description": "A premier professional legal community platform for law students, advocates, and professors.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "deploy": "echo 'Ready for deployment'"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "legal",
+    "community",
+    "ai",
+    "india",
+    "advocates"
+  ],
+  "author": "Vidhigya Team"
+}

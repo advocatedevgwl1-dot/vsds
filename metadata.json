@@ -1,0 +1,8 @@
+{
+  "name": "Vidhigya Sanghthan",
+  "description": "A premier professional legal community platform for law students, advocates, and professors to collaborate, share knowledge, and leverage AI for legal research.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
